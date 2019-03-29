@@ -50,8 +50,8 @@ void Bitmap::save(const char filename[]) {
 void Bitmap::write(const char filename[]){
     ofstream myfile;
     myfile.open(filename);//(filename);
-    for (int j = 0; j < w; j++){
-        for (int i = 0; i < h; i++){
+    for (int j = 0; j < h; j++){
+        for (int i = 0; i < w; i++){
             if (pixels[j * w + i] == 0) myfile << 0;
             else {
                 myfile << pixels[j * w + i];
