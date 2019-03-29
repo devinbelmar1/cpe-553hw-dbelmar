@@ -22,7 +22,8 @@ int main() {
     cout << "copy\n";
     Bitmap c(420,300,"c");
     cout << "c = ("<< c.w << "," << c.h << ")\n";
-    c = b;
+    //c = b;
     cout << "c = ("<< c.w << "," << c.h << ")\n";
+    //c(b&&);
     return 0;
 }

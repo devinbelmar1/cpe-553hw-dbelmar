@@ -62,6 +62,7 @@ void Bitmap::write(const char filename[]){
     }
     myfile.close();
 }
+//copy
 Bitmap::Bitmap(const Bitmap& og) : w(og.w), h(og.h){
     pixels = (new uint32_t[w*h]);
     for (int j = 0; j < h; j++) {
@@ -82,3 +83,24 @@ Bitmap &operator =(const Bitmap& og) {
     return //a Bitmap
 }
 */
+
+//Move constructor
+Bitmap::Bitmap(Bitmap&& og){
+    pixels = (new uint32_t[og.w*og.h]);
+    for (int j = 0; j < og.h; j++) {
+        for (int i = 0; i < og.w; i++) {
+            pixels[j * og.w + i] = og.pixels[j * og.w + i];
+        }
+    }
+    w = og.w, h = og.h;
+    og.pixels = nullptr; // clear the data that was moved from the original.
+    og.w = 0, og.h = 0;
+}
+/*
+//move constructor assignment operator
+Bitmap::Bitmap& operator=(Bitmap&& og) {
+    if (this != &og){
+        //things
+    }
+}
+ */

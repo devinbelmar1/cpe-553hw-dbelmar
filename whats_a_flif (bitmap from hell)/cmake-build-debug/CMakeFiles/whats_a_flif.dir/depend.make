@@ -3,6 +3,10 @@
 
 CMakeFiles/whats_a_flif.dir/Flifmap.cc.obj: ../Flifmap.cc
 CMakeFiles/whats_a_flif.dir/Flifmap.cc.obj: ../Flifmap.hh
+CMakeFiles/whats_a_flif.dir/Flifmap.cc.obj: C:/Users/devin/Downloads/FLIF/FLIF-master/src/library/flif.h
+CMakeFiles/whats_a_flif.dir/Flifmap.cc.obj: C:/Users/devin/Downloads/FLIF/FLIF-master/src/library/flif_common.h
+CMakeFiles/whats_a_flif.dir/Flifmap.cc.obj: C:/Users/devin/Downloads/FLIF/FLIF-master/src/library/flif_dec.h
+CMakeFiles/whats_a_flif.dir/Flifmap.cc.obj: C:/Users/devin/Downloads/FLIF/FLIF-master/src/library/flif_enc.h
 
 CMakeFiles/whats_a_flif.dir/main.cpp.obj: ../Flifmap.hh
 CMakeFiles/whats_a_flif.dir/main.cpp.obj: ../main.cpp
