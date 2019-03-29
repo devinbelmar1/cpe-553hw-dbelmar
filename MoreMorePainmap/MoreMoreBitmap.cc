@@ -37,8 +37,8 @@ void Bitmap::line(int in1, int in2, int in3, int in4, uint32_t in5){
 void Bitmap::load (const char filename[]){
     ifstream inFile;
     inFile.open(filename);
-    for (int i = 0; i < w; i ++) {
-        for (int j = 0; j < h; j++) {
+    for (int j = 0; j < h; j++) {
+        for (int i = 0; i < w; i ++) {
             while (inFile >> pixels[j *w + i]) {}
         }
     }
@@ -50,8 +50,8 @@ void Bitmap::save(const char filename[]) {
 void Bitmap::write(const char filename[]){
     ofstream myfile;
     myfile.open(filename);//(filename);
-    for (int i = 0; i < w; i++){
-        for (int j = 0; j < h; j++){
+    for (int j = 0; j < w; j++){
+        for (int i = 0; i < h; i++){
             if (pixels[j * w + i] == 0) myfile << 0;
             else {
                 myfile << pixels[j * w + i];

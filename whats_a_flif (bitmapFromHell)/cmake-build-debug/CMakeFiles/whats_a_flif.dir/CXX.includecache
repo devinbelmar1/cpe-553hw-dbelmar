@@ -6,10 +6,34 @@
 
 #IncludeRegexTransform: 
 
+C:/Users/devin/CLionProjects/whats_a_flif/Flifmap.cc
+Flifmap.hh
+C:/Users/devin/CLionProjects/whats_a_flif/Flifmap.hh
+fstream
+-
+iostream
+-
+stdint.h
+-
+string
+-
+
+C:/Users/devin/CLionProjects/whats_a_flif/Flifmap.hh
+string
+-
+stdint.h
+-
+
 C:/Users/devin/CLionProjects/whats_a_flif/main.cpp
 iostream
 -
 C:/Users/devin/Downloads/FLIF/FLIF-master/src/library/flif.h
+-
+iostream
+-
+Flifmap.hh
+C:/Users/devin/CLionProjects/whats_a_flif/Flifmap.hh
+cstring
 -
 
 C:/Users/devin/Downloads/FLIF/FLIF-master/src/library/flif.h

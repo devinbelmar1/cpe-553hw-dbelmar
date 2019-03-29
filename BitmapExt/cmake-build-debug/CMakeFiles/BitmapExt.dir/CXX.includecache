@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C://Users//devin//CLionProjects//ReferenceFilesExt//Bitmap.cc
+C://Users//devin//CLionProjects//ReferenceFilesExt//Bitmap.hh
+-
+fstream
+-
+iostream
+-
+cstdint
+-
+string
+-
+
+C://Users//devin//CLionProjects//ReferenceFilesExt//Bitmap.hh
+string
+-
+stdint.h
+-
+
+C:/Users/devin/CLionProjects/BitmapExt/main.cpp
+iostream
+-
+fstream
+-
+cstdint
+-
+C://Users//devin//CLionProjects//ReferenceFilesExt//Bitmap.cc
+-
+C://Users//devin//CLionProjects//ReferenceFilesExt//Bitmap.hh
+-
+
