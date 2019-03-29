@@ -1,4 +1,8 @@
-#include "Bitmap.hh"
+//
+// Created by devin on 3/28/2019.
+//
+
+#include "MoreMoreBitmap.hh"
 #include <fstream>
 #include <iostream>
 #include <stdint.h>
@@ -30,8 +34,20 @@ void Bitmap::line(int in1, int in2, int in3, int in4, uint32_t in5){
         D = D + 2*dy;
     }
 }
+void Bitmap::load (const char filename[]){
+    ifstream inFile;
+    inFile.open(filename);
+    for (int i = 0; i < w; i ++) {
+        for (int j = 0; j < h; j++) {
+            while (inFile >> pixels[j *w + i]) {}
+        }
+    }
+}
 
-void Bitmap::write(string filename){
+void Bitmap::save(const char filename[]) {
+    write(filename);
+}
+void Bitmap::write(const char filename[]){
     ofstream myfile;
     myfile.open(filename);//(filename);
     for (int i = 0; i < w; i++){

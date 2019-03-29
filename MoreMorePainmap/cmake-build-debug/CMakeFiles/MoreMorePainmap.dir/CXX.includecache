@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/devin/CLionProjects/MoreMorePainmap/MoreMoreBitmap.cc
+MoreMoreBitmap.hh
+C:/Users/devin/CLionProjects/MoreMorePainmap/MoreMoreBitmap.hh
+fstream
+-
+iostream
+-
+stdint.h
+-
+string
+-
+
+C:/Users/devin/CLionProjects/MoreMorePainmap/MoreMoreBitmap.hh
+string
+-
+stdint.h
+-
+
