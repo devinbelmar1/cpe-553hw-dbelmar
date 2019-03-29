@@ -1,0 +1,6 @@
+
+git bash upload command
+
+git add .
+git commit -m "commit message in quotes"
+git push
