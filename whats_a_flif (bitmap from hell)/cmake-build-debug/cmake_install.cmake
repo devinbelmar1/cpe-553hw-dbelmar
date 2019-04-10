@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/devin/CLionProjects/whats_a_flif
+# Install script for directory: C:/Users/devin/Downloads/cpe-553hw-dbelmar/whats_a_flif (bitmap from hell)
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/devin/CLionProjects/whats_a_flif/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/devin/Downloads/cpe-553hw-dbelmar/whats_a_flif (bitmap from hell)/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

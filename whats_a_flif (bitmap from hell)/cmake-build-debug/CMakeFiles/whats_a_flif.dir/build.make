@@ -42,10 +42,10 @@ RM = "C:\Program Files\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\devin\CLionProjects\whats_a_flif
+CMAKE_SOURCE_DIR = "C:\Users\devin\Downloads\cpe-553hw-dbelmar\whats_a_flif (bitmap from hell)"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\devin\CLionProjects\whats_a_flif\cmake-build-debug
+CMAKE_BINARY_DIR = "C:\Users\devin\Downloads\cpe-553hw-dbelmar\whats_a_flif (bitmap from hell)\cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/whats_a_flif.dir/depend.make
@@ -58,29 +58,29 @@ include CMakeFiles/whats_a_flif.dir/flags.make
 
 CMakeFiles/whats_a_flif.dir/main.cpp.obj: CMakeFiles/whats_a_flif.dir/flags.make
 CMakeFiles/whats_a_flif.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\devin\CLionProjects\whats_a_flif\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/whats_a_flif.dir/main.cpp.obj"
-	C:\msys64\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\whats_a_flif.dir\main.cpp.obj -c C:\Users\devin\CLionProjects\whats_a_flif\main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\devin\Downloads\cpe-553hw-dbelmar\whats_a_flif (bitmap from hell)\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/whats_a_flif.dir/main.cpp.obj"
+	C:\msys64\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\whats_a_flif.dir\main.cpp.obj -c "C:\Users\devin\Downloads\cpe-553hw-dbelmar\whats_a_flif (bitmap from hell)\main.cpp"
 
 CMakeFiles/whats_a_flif.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/whats_a_flif.dir/main.cpp.i"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\devin\CLionProjects\whats_a_flif\main.cpp > CMakeFiles\whats_a_flif.dir\main.cpp.i
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\devin\Downloads\cpe-553hw-dbelmar\whats_a_flif (bitmap from hell)\main.cpp" > CMakeFiles\whats_a_flif.dir\main.cpp.i
 
 CMakeFiles/whats_a_flif.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/whats_a_flif.dir/main.cpp.s"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\devin\CLionProjects\whats_a_flif\main.cpp -o CMakeFiles\whats_a_flif.dir\main.cpp.s
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\devin\Downloads\cpe-553hw-dbelmar\whats_a_flif (bitmap from hell)\main.cpp" -o CMakeFiles\whats_a_flif.dir\main.cpp.s
 
 CMakeFiles/whats_a_flif.dir/Flifmap.cc.obj: CMakeFiles/whats_a_flif.dir/flags.make
 CMakeFiles/whats_a_flif.dir/Flifmap.cc.obj: ../Flifmap.cc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\devin\CLionProjects\whats_a_flif\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/whats_a_flif.dir/Flifmap.cc.obj"
-	C:\msys64\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\whats_a_flif.dir\Flifmap.cc.obj -c C:\Users\devin\CLionProjects\whats_a_flif\Flifmap.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\devin\Downloads\cpe-553hw-dbelmar\whats_a_flif (bitmap from hell)\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/whats_a_flif.dir/Flifmap.cc.obj"
+	C:\msys64\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\whats_a_flif.dir\Flifmap.cc.obj -c "C:\Users\devin\Downloads\cpe-553hw-dbelmar\whats_a_flif (bitmap from hell)\Flifmap.cc"
 
 CMakeFiles/whats_a_flif.dir/Flifmap.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/whats_a_flif.dir/Flifmap.cc.i"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\devin\CLionProjects\whats_a_flif\Flifmap.cc > CMakeFiles\whats_a_flif.dir\Flifmap.cc.i
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\devin\Downloads\cpe-553hw-dbelmar\whats_a_flif (bitmap from hell)\Flifmap.cc" > CMakeFiles\whats_a_flif.dir\Flifmap.cc.i
 
 CMakeFiles/whats_a_flif.dir/Flifmap.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/whats_a_flif.dir/Flifmap.cc.s"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\devin\CLionProjects\whats_a_flif\Flifmap.cc -o CMakeFiles\whats_a_flif.dir\Flifmap.cc.s
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\devin\Downloads\cpe-553hw-dbelmar\whats_a_flif (bitmap from hell)\Flifmap.cc" -o CMakeFiles\whats_a_flif.dir\Flifmap.cc.s
 
 # Object files for target whats_a_flif
 whats_a_flif_OBJECTS = \
@@ -96,7 +96,7 @@ whats_a_flif.exe: CMakeFiles/whats_a_flif.dir/build.make
 whats_a_flif.exe: CMakeFiles/whats_a_flif.dir/linklibs.rsp
 whats_a_flif.exe: CMakeFiles/whats_a_flif.dir/objects1.rsp
 whats_a_flif.exe: CMakeFiles/whats_a_flif.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\devin\CLionProjects\whats_a_flif\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable whats_a_flif.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\devin\Downloads\cpe-553hw-dbelmar\whats_a_flif (bitmap from hell)\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable whats_a_flif.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\whats_a_flif.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -109,6 +109,6 @@ CMakeFiles/whats_a_flif.dir/clean:
 .PHONY : CMakeFiles/whats_a_flif.dir/clean
 
 CMakeFiles/whats_a_flif.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\devin\CLionProjects\whats_a_flif C:\Users\devin\CLionProjects\whats_a_flif C:\Users\devin\CLionProjects\whats_a_flif\cmake-build-debug C:\Users\devin\CLionProjects\whats_a_flif\cmake-build-debug C:\Users\devin\CLionProjects\whats_a_flif\cmake-build-debug\CMakeFiles\whats_a_flif.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\devin\Downloads\cpe-553hw-dbelmar\whats_a_flif (bitmap from hell)" "C:\Users\devin\Downloads\cpe-553hw-dbelmar\whats_a_flif (bitmap from hell)" "C:\Users\devin\Downloads\cpe-553hw-dbelmar\whats_a_flif (bitmap from hell)\cmake-build-debug" "C:\Users\devin\Downloads\cpe-553hw-dbelmar\whats_a_flif (bitmap from hell)\cmake-build-debug" "C:\Users\devin\Downloads\cpe-553hw-dbelmar\whats_a_flif (bitmap from hell)\cmake-build-debug\CMakeFiles\whats_a_flif.dir\DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/whats_a_flif.dir/depend
 

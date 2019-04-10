@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/devin/CLionProjects/whats_a_flif/Flifmap.cc" "C:/Users/devin/CLionProjects/whats_a_flif/cmake-build-debug/CMakeFiles/whats_a_flif.dir/Flifmap.cc.obj"
-  "C:/Users/devin/CLionProjects/whats_a_flif/main.cpp" "C:/Users/devin/CLionProjects/whats_a_flif/cmake-build-debug/CMakeFiles/whats_a_flif.dir/main.cpp.obj"
+  "C:/Users/devin/Downloads/cpe-553hw-dbelmar/whats_a_flif (bitmap from hell)/Flifmap.cc" "C:/Users/devin/Downloads/cpe-553hw-dbelmar/whats_a_flif (bitmap from hell)/cmake-build-debug/CMakeFiles/whats_a_flif.dir/Flifmap.cc.obj"
+  "C:/Users/devin/Downloads/cpe-553hw-dbelmar/whats_a_flif (bitmap from hell)/main.cpp" "C:/Users/devin/Downloads/cpe-553hw-dbelmar/whats_a_flif (bitmap from hell)/cmake-build-debug/CMakeFiles/whats_a_flif.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

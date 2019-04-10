@@ -8,18 +8,18 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="C:/Users/devin/CLionProjects/whats_a_flif/cmake-build-debug"/>
+				<Option working_dir="C:/Users/devin/Downloads/cpe-553hw-dbelmar/whats_a_flif (bitmap from hell)/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/devin/CLionProjects/whats_a_flif/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/devin/CLionProjects/whats_a_flif/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/devin/CLionProjects/whats_a_flif/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/devin/CLionProjects/whats_a_flif/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/devin/Downloads/cpe-553hw-dbelmar/whats_a_flif (bitmap from hell)/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/devin/Downloads/cpe-553hw-dbelmar/whats_a_flif (bitmap from hell)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/devin/Downloads/cpe-553hw-dbelmar/whats_a_flif (bitmap from hell)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/devin/Downloads/cpe-553hw-dbelmar/whats_a_flif (bitmap from hell)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="whats_a_flif">
-				<Option output="C:/Users/devin/CLionProjects/whats_a_flif/cmake-build-debug/whats_a_flif.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/devin/CLionProjects/whats_a_flif/cmake-build-debug"/>
+				<Option output="C:/Users/devin/Downloads/cpe-553hw-dbelmar/whats_a_flif (bitmap from hell)/cmake-build-debug/whats_a_flif.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/devin/Downloads/cpe-553hw-dbelmar/whats_a_flif (bitmap from hell)/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -33,15 +33,15 @@
 					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.2.1/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/devin/CLionProjects/whats_a_flif/cmake-build-debug/Makefile&quot;  VERBOSE=1 whats_a_flif"/>
-					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/devin/CLionProjects/whats_a_flif/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/devin/CLionProjects/whats_a_flif/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/devin/CLionProjects/whats_a_flif/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/devin/Downloads/cpe-553hw-dbelmar/whats_a_flif (bitmap from hell)/cmake-build-debug/Makefile&quot;  VERBOSE=1 whats_a_flif"/>
+					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/devin/Downloads/cpe-553hw-dbelmar/whats_a_flif (bitmap from hell)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/devin/Downloads/cpe-553hw-dbelmar/whats_a_flif (bitmap from hell)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/devin/Downloads/cpe-553hw-dbelmar/whats_a_flif (bitmap from hell)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="whats_a_flif/fast">
-				<Option output="C:/Users/devin/CLionProjects/whats_a_flif/cmake-build-debug/whats_a_flif.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/devin/CLionProjects/whats_a_flif/cmake-build-debug"/>
+				<Option output="C:/Users/devin/Downloads/cpe-553hw-dbelmar/whats_a_flif (bitmap from hell)/cmake-build-debug/whats_a_flif.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/devin/Downloads/cpe-553hw-dbelmar/whats_a_flif (bitmap from hell)/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -55,43 +55,43 @@
 					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.2.1/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/devin/CLionProjects/whats_a_flif/cmake-build-debug/Makefile&quot;  VERBOSE=1 whats_a_flif/fast"/>
-					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/devin/CLionProjects/whats_a_flif/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/devin/CLionProjects/whats_a_flif/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/devin/CLionProjects/whats_a_flif/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/devin/Downloads/cpe-553hw-dbelmar/whats_a_flif (bitmap from hell)/cmake-build-debug/Makefile&quot;  VERBOSE=1 whats_a_flif/fast"/>
+					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/devin/Downloads/cpe-553hw-dbelmar/whats_a_flif (bitmap from hell)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/devin/Downloads/cpe-553hw-dbelmar/whats_a_flif (bitmap from hell)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/devin/Downloads/cpe-553hw-dbelmar/whats_a_flif (bitmap from hell)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="C:/Users/devin/CLionProjects/whats_a_flif/cmake-build-debug"/>
+				<Option working_dir="C:/Users/devin/Downloads/cpe-553hw-dbelmar/whats_a_flif (bitmap from hell)/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/devin/CLionProjects/whats_a_flif/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/devin/CLionProjects/whats_a_flif/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/devin/CLionProjects/whats_a_flif/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/devin/CLionProjects/whats_a_flif/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/devin/Downloads/cpe-553hw-dbelmar/whats_a_flif (bitmap from hell)/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/devin/Downloads/cpe-553hw-dbelmar/whats_a_flif (bitmap from hell)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/devin/Downloads/cpe-553hw-dbelmar/whats_a_flif (bitmap from hell)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/devin/Downloads/cpe-553hw-dbelmar/whats_a_flif (bitmap from hell)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="C:/Users/devin/CLionProjects/whats_a_flif/cmake-build-debug"/>
+				<Option working_dir="C:/Users/devin/Downloads/cpe-553hw-dbelmar/whats_a_flif (bitmap from hell)/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/devin/CLionProjects/whats_a_flif/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/devin/CLionProjects/whats_a_flif/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/devin/CLionProjects/whats_a_flif/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/devin/CLionProjects/whats_a_flif/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/devin/Downloads/cpe-553hw-dbelmar/whats_a_flif (bitmap from hell)/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/devin/Downloads/cpe-553hw-dbelmar/whats_a_flif (bitmap from hell)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/devin/Downloads/cpe-553hw-dbelmar/whats_a_flif (bitmap from hell)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/devin/Downloads/cpe-553hw-dbelmar/whats_a_flif (bitmap from hell)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/devin/CLionProjects/whats_a_flif/Flifmap.cc">
+		<Unit filename="C:/Users/devin/Downloads/cpe-553hw-dbelmar/whats_a_flif (bitmap from hell)/Flifmap.cc">
 			<Option target="whats_a_flif"/>
 		</Unit>
-		<Unit filename="C:/Users/devin/CLionProjects/whats_a_flif/Flifmap.hh">
+		<Unit filename="C:/Users/devin/Downloads/cpe-553hw-dbelmar/whats_a_flif (bitmap from hell)/Flifmap.hh">
 			<Option target="whats_a_flif"/>
 		</Unit>
-		<Unit filename="C:/Users/devin/CLionProjects/whats_a_flif/main.cpp">
+		<Unit filename="C:/Users/devin/Downloads/cpe-553hw-dbelmar/whats_a_flif (bitmap from hell)/main.cpp">
 			<Option target="whats_a_flif"/>
 		</Unit>
-		<Unit filename="C:/Users/devin/CLionProjects/whats_a_flif/CMakeLists.txt">
+		<Unit filename="C:/Users/devin/Downloads/cpe-553hw-dbelmar/whats_a_flif (bitmap from hell)/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
