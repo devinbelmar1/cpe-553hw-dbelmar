@@ -15,11 +15,14 @@ string getNext(istream &in){
     char c;
     string ans = "";
     c = in.get();
-    while(!isalpha(c) && !in.eof()) {
+    while(!isalpha(c) && !in.eof()) { //handles non alphabetical chars and the end of the file
         c = in.get();
         cout << c << " 1\n";
     }
     while(isalpha(c) || ('-' == c)) { //handles hyphenated words
+        if (c == '-') {
+            c = ' ';
+        }
         ans.push_back(tolower(c));
         c = in.get();
         cout << c << " 2\n";
@@ -37,8 +40,6 @@ int main() {
     while((s=getNext(fin)) != "") {
         ++words[s];
     }
-
-
     for(map<string,int>::iterator it = words.begin(); it != words.end(); ++it) {
         cout << it->first << ' ' << it->second << endl;
     }

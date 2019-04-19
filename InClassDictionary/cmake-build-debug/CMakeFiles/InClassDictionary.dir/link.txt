@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\InClassDictionary.dir/objects.a
+C:\msys64\mingw64\bin\ar.exe cr CMakeFiles\InClassDictionary.dir/objects.a @CMakeFiles\InClassDictionary.dir\objects1.rsp
+C:\msys64\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\InClassDictionary.dir/objects.a -Wl,--no-whole-archive  -o InClassDictionary.exe -Wl,--out-implib,libInClassDictionary.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\InClassDictionary.dir\linklibs.rsp

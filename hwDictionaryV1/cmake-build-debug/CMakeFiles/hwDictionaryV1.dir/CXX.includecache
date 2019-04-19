@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/devin/Downloads/cpe-553hw-dbelmar/hwDictionaryV1/main.cpp
+iterator
+-
+iostream
+-
+fstream
+-
+map
+-
+string
+-
+
