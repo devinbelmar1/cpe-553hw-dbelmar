@@ -1,0 +1,3 @@
+C:/Users/devin/Downloads/cpe-553hw-dbelmar/HwRegex/cmake-build-debug/CMakeFiles/HwRegex.dir
+C:/Users/devin/Downloads/cpe-553hw-dbelmar/HwRegex/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/devin/Downloads/cpe-553hw-dbelmar/HwRegex/cmake-build-debug/CMakeFiles/rebuild_cache.dir
